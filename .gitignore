@@ -6,6 +6,12 @@ __pycache__/
 # Datasets
 /datasets
 
+/images
+/catboost_info
+**.png
+**.pth
+
+
 # C extensions
 *.so
 
